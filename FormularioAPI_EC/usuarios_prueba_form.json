@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+  {
+    "NombreDeUsuario": "juan_perez",
+    "CorreoElectronico": "juan.perez@example.com",
+    "Contrasena": "P@ssw0rd123"
+  },
+  {
+    "NombreDeUsuario": "maria_gomez",
+    "CorreoElectronico": "maria.gomez@example.com",
+    "Contrasena": "SecurePass456"
+  },
+  {
+    "NombreDeUsuario": "carlos_lopez",
+    "CorreoElectronico": "carlos.lopez@example.com",
+    "Contrasena": "Carlos123!"
+  },
+  {
+    "NombreDeUsuario": "ana_martinez",
+    "CorreoElectronico": "ana.martinez@example.com",
+    "Contrasena": "AnaMartinez2023"
+  }
+]
+}

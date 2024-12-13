@@ -1,0 +1,37 @@
+{
+  "usuarios": [
+    {
+      "fullName": "Juan Pérez",
+      "username": "juanp123",
+      "email": "juan.perez@example.com",
+      "password": "Password123!",
+      "confirmPassword": "Password123!",
+      "dob": "1990-05-15",
+      "gender": "male",
+      "country": "España",
+      "terms": true
+    },
+    {
+      "fullName": "María López",
+      "username": "marialopez",
+      "email": "maria.lopez@example.com",
+      "password": "Maria#2024",
+      "confirmPassword": "Maria#2024",
+      "dob": "1995-10-20",
+      "gender": "female",
+      "country": "México",
+      "terms": true
+    },
+    {
+      "fullName": "Alex Torres",
+      "username": "alext",
+      "email": "alex.torres@example.com",
+      "password": "Secure@Password1",
+      "confirmPassword": "Secure@Password1",
+      "dob": "1987-07-30",
+      "gender": "other",
+      "country": "Argentina",
+      "terms": false
+    }
+  ]
+}
